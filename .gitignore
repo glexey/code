@@ -1,0 +1,9 @@
+*.exe
+*.pyc
+
+# VIM swap/backup
+*~
+*.bak
+.*.sw?
+_.sw?
+
