@@ -51,6 +51,6 @@ for i,test in enumerate(tests):
         print "-- INPUT:\n", test[0].rstrip()
         print "-- EXPECTED OUTPUT:\n", expected
         print "-- OUTPUT:\n", got
-        print "DEBUG: %s %s"%(repr(expected), repr(got))
+        #print "DEBUG: %s %s"%(repr(expected), repr(got))
         print
 
