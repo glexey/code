@@ -1,0 +1,16 @@
+input
+5
+DDRRR
+output
+D
+input
+6
+DDRRRR
+output
+R
+input
+11
+DRDRDRDRRRR
+output
+R
+
